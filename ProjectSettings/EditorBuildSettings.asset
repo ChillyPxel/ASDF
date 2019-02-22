@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu1.unity
+    guid: dd3d66e8de64696438a5f04a81f1a930
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 03a931970a63c674da2d83ce109c4ece
+  - enabled: 1
+    path: Assets/Scenes/Beginning.unity
+    guid: 6e464fbf11e64464783d6a858418a531
+  - enabled: 1
+    path: Assets/Scenes/Beginning2.unity
+    guid: 6667217bfac9e764f9750ee7551de926
+  - enabled: 1
+    path: Assets/Scenes/Beginning3.unity
+    guid: 58f29ad687cd7184fb9cab6559dd5c00
+  - enabled: 1
+    path: Assets/Scenes/Beginning4.unity
+    guid: 18d03963dd75c654e9d535f2fcc14246
+  - enabled: 1
+    path: Assets/Scenes/Beginning5.unity
+    guid: fc60c8d8704b0764081e632b7849d9af
+  - enabled: 1
+    path: Assets/Scenes/Beginning6.unity
+    guid: d84fa2318350009438b8f409d04afbd7
+  - enabled: 1
+    path: Assets/Scenes/Beginning7.unity
+    guid: 034d32e9ba468f346a1d3e67b03eef37
+  - enabled: 1
+    path: Assets/Scenes/Beginning8.unity
+    guid: 5a8465c984b834045806f7e8708521ea
+  - enabled: 1
+    path: Assets/Scenes/Beginning9.unity
+    guid: 76d56a59b3344f144998edbdcbf08f5e
+  - enabled: 1
+    path: Assets/Scenes/Beginning10.unity
+    guid: 35bcb7e4e2dca6f48bf5b43516864d5e
+  - enabled: 1
+    path: Assets/Scenes/Beginning11.unity
+    guid: 1e672f0cfd627654c99208dc9c953259
+  - enabled: 1
+    path: Assets/Scenes/Beginning12.unity
+    guid: 7432d7ef88c54904a81facf2c3943773
+  - enabled: 1
+    path: Assets/Scenes/Beginning13.unity
+    guid: 69a4ed39e43e71541aada1d32ea0f9fb
+  - enabled: 1
+    path: Assets/Scenes/Beginning14.unity
+    guid: a5f50a43a35409840ae5c7529e7c621e
+  - enabled: 1
+    path: Assets/Scenes/Beginning15.unity
+    guid: c0b881df37b701343969c224ddfbed2c
+  - enabled: 1
+    path: Assets/Scenes/Beginning16.unity
+    guid: e27051ac8756d13448f04c999be93b77
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 743725bf0cae73e47922c99be75e1f1a
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+    guid: a36cda5a8ebb4e94b8d92059003b8fe5
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: ab9ea799fbea2cb4faee6c0ff23ad038
+  - enabled: 1
+    path: Assets/Scenes/Room3.unity
+    guid: df8f48af7503d7847959826f5c7faac6
+  - enabled: 1
+    path: Assets/Scenes/Boss1.unity
+    guid: 024edbad40c2c62499dd420d61565d73
+  - enabled: 1
+    path: Assets/Scenes/Boss2.unity
+    guid: 64cc66387f328a044a8ae4157d419b61
+  - enabled: 1
+    path: Assets/Scenes/Boss3.unity
+    guid: caa61c07b2a07594ca7dd285df19d120
+  - enabled: 1
+    path: Assets/Scenes/Boss4.unity
+    guid: 455b21bbac48f094faaa9a5eeed41657
+  - enabled: 1
+    path: Assets/Scenes/Boss5.unity
+    guid: 54a7a63dc344d6f4f8331c172c91f4eb
+  - enabled: 1
+    path: Assets/Scenes/Boss6.unity
+    guid: c3d2871abc2c457418a8f88795e1d6b3
+  - enabled: 1
+    path: Assets/Scenes/Boss7.unity
+    guid: 35c83098ffcd7e54781c73bb50e0be7e
+  - enabled: 1
+    path: Assets/Scenes/Boss8.unity
+    guid: ff1a4abebf49bbe43ac2c08ccb52c908
+  - enabled: 1
+    path: Assets/Scenes/Boss9.unity
+    guid: 4dbe3198e6eb2bd4ba342a23b7c99e2c
+  - enabled: 1
+    path: Assets/Scenes/Boss10.unity
+    guid: 60cf735b4a0dea64cad2d75531005c42
+  - enabled: 1
+    path: Assets/Scenes/Fight1.unity
+    guid: 245bb48759ae7bf43ba70dd87d2d0550
+  - enabled: 1
+    path: Assets/Scenes/Fight2.unity
+    guid: ff9e7f7965daa9e4e9c7cd404b355410
+  - enabled: 1
+    path: Assets/Scenes/Fight3.unity
+    guid: 209277f1bac388e4fba6ca9cc2a4220d
+  - enabled: 1
+    path: Assets/Scenes/Fight4.unity
+    guid: e30aa39daee5ee44da385c7220ccb850
+  - enabled: 1
+    path: Assets/Scenes/Fight5.unity
+    guid: 6339b61eb981aaa4b9a32b9da55d2267
+  - enabled: 1
+    path: Assets/Scenes/Fight6.unity
+    guid: f2fe88da09591cf4eb548e9102b44141
+  - enabled: 1
+    path: Assets/Scenes/Fight7.unity
+    guid: faf5e0e6529c42b49b095a4031ad4076
+  - enabled: 1
+    path: Assets/Scenes/Fight8.unity
+    guid: 7b6dc79d3e61cf64f9a9dd8b4747b3f1
+  - enabled: 1
+    path: Assets/Scenes/Fight9.unity
+    guid: 7b09096ac2158be40bdc4b060ffbba3c
+  - enabled: 1
+    path: Assets/Scenes/Fight10.unity
+    guid: f7772a6a63c1fa84fa0c137b19ff3e6f
+  - enabled: 1
+    path: Assets/Scenes/Options1.unity
+    guid: 87b3d43eb577ecf449d9dbe24a68b887
+  - enabled: 1
+    path: Assets/Scenes/Options2.unity
+    guid: d135f3db9d4d49244b752e153a394aed
+  - enabled: 1
+    path: Assets/Scenes/Options3.unity
+    guid: 87747837a0741b642b1bb7ebe9b3686f
+  - enabled: 1
+    path: Assets/Scenes/Options4.unity
+    guid: cb42ca04f46fae34ab8c0d29fe6a7cb7
+  - enabled: 1
+    path: Assets/Scenes/Options5.unity
+    guid: 6d8a00a05a7e82f47816f2af7174705e
+  - enabled: 1
+    path: Assets/Scenes/Options6.unity
+    guid: 73dbde90469bd634bbac3f43498f23fd
+  - enabled: 1
+    path: Assets/Scenes/Options7.unity
+    guid: 29979a0102226f34f98a98048a06c002
+  - enabled: 1
+    path: Assets/Scenes/Options8.unity
+    guid: 4d776dc7218c0294baadc6684c625e32
+  - enabled: 1
+    path: Assets/Scenes/Options9.unity
+    guid: 99f3db440836fae4eacd1efe9c656163
+  - enabled: 1
+    path: Assets/Scenes/Options10.unity
+    guid: ca1c2f42aec764e46a5914489a0f8d6c
+  - enabled: 1
+    path: Assets/Scenes/Slime1.unity
+    guid: a216f7f6d8b40bf41aebef94ac018a56
+  - enabled: 1
+    path: Assets/Scenes/SlimeTalk.unity
+    guid: 92ca1bef0bac81049a93a5c49c53c861
+  - enabled: 1
+    path: Assets/Scenes/SimeFlirt.unity
+    guid: b3844ed76d1d72a429d4427ff6619ac6
+  - enabled: 1
+    path: Assets/Scenes/SlimeFlirt2.unity
+    guid: 890379bd5b34e454aaacee26a1b684a2
+  - enabled: 1
+    path: Assets/Scenes/SlimeFlirt3.unity
+    guid: b4a15f785ed61374cafb24c978d39929
+  - enabled: 1
+    path: Assets/Scenes/SlimeFlee.unity
+    guid: ad4a1e37da8d93d4e9cae57b0d594e55
+  - enabled: 1
+    path: Assets/Scenes/SlimeInsult.unity
+    guid: 6da792b00e30eeb408896374ac60515c
+  - enabled: 1
+    path: Assets/Scenes/SlimeJoke.unity
+    guid: 338c34d053b9e0d40a61608c8be293db
+  - enabled: 1
+    path: Assets/Scenes/GloboAttack.unity
+    guid: aece73360da9bb847b1f6ae3941085ae
+  - enabled: 1
+    path: Assets/Scenes/GloboTalk.unity
+    guid: e6181bd7fcc64be45bca36e62edefe82
+  - enabled: 1
+    path: Assets/Scenes/GloboFlirt.unity
+    guid: d97987658c733964bac0d68cb453850c
+  - enabled: 1
+    path: Assets/Scenes/GloboInsult.unity
+    guid: b418deca45af5744c8e1c594e99cdd87
+  - enabled: 1
+    path: Assets/Scenes/GloboPoem.unity
+    guid: 2b64c34bbbde62f4c89629654608abb6
+  - enabled: 1
+    path: Assets/Scenes/GloboFlee.unity
+    guid: 0768be87dad07dd41bc4c0efa60efabe
+  - enabled: 1
+    path: Assets/Scenes/GoblinAttack.unity
+    guid: b7ab2d3021a6fa54e8bdddab62527fef
+  - enabled: 1
+    path: Assets/Scenes/GoblinTalk.unity
+    guid: 8fd336a45d43bd146a52ae031ed2e081
+  - enabled: 1
+    path: Assets/Scenes/GoblinFlee.unity
+    guid: bcb51b21d531ce14c95fca798141e918
+  - enabled: 1
+    path: Assets/Scenes/Window1.unity
+    guid: 1547bdad914274d418ae166818315090
+  - enabled: 1
+    path: Assets/Scenes/Window2.unity
+    guid: bfcac9f75f20fe0438cef4e4760512ac
+  - enabled: 1
+    path: Assets/Scenes/SnekAttack.unity
+    guid: 4bdc8b4af669df0478429019837545e5
+  - enabled: 1
+    path: Assets/Scenes/SnekTalk.unity
+    guid: a84f9d50f543bd64ea2f30a6766ffe02
+  - enabled: 1
+    path: Assets/Scenes/SnekFlee.unity
+    guid: 745163cf8bc7df14c875bb0f7d85c91a
+  - enabled: 1
+    path: Assets/Scenes/GameClear.unity
+    guid: 33d6cd2838367e747a2d2f77606ba35c
+  - enabled: 1
+    path: Assets/Scenes/Room4.unity
+    guid: b95337cd17377144bb2e4c973a70d98c
+  m_configObjects: {}
